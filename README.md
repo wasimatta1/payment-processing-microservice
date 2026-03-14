@@ -47,8 +47,6 @@ text- Response example:
 "email": "store@test.com",
 "apiKey": "generated-api-key",
 "active": true,
-"dateCreated": "2026-03-14T00:00:00Z",
-"lastUpdated": "2026-03-14T00:00:00Z"
 }
 text- Copy `apiKey` for other requests.
 
